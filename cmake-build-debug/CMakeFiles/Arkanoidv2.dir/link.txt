@@ -1,0 +1,3 @@
+"E:\Programy\Clion\CLion 2017.2.3\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\Arkanoidv2.dir/objects.a
+E:\Kompilator\mingw64\bin\ar.exe cr CMakeFiles\Arkanoidv2.dir/objects.a @CMakeFiles\Arkanoidv2.dir\objects1.rsp
+E:\Kompilator\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Arkanoidv2.dir/objects.a -Wl,--no-whole-archive  -o Arkanoidv2.exe -Wl,--out-implib,libArkanoidv2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Arkanoidv2.dir\linklibs.rsp

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Arkanoidv2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake_modules\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/Studia/Arkanoidv2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Kompilator/mingw64/bin/mingw32-make.exe -f &quot;E:/Studia/Arkanoidv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="E:/Kompilator/mingw64/bin/mingw32-make.exe -f &quot;E:/Studia/Arkanoidv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Kompilator/mingw64/bin/mingw32-make.exe -f &quot;E:/Studia/Arkanoidv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Kompilator/mingw64/bin/mingw32-make.exe -f &quot;E:/Studia/Arkanoidv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/Studia/Arkanoidv2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Kompilator/mingw64/bin/mingw32-make.exe -f &quot;E:/Studia/Arkanoidv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="E:/Kompilator/mingw64/bin/mingw32-make.exe -f &quot;E:/Studia/Arkanoidv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Kompilator/mingw64/bin/mingw32-make.exe -f &quot;E:/Studia/Arkanoidv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Kompilator/mingw64/bin/mingw32-make.exe -f &quot;E:/Studia/Arkanoidv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Arkanoidv2">
+				<Option output="E:/Studia/Arkanoidv2/cmake-build-debug/Arkanoidv2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Studia/Arkanoidv2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Program Files (x86)/SFML-2.5.0/include"/>
+					<Add directory="E:/Kompilator/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="E:/Kompilator/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Kompilator/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="E:/Kompilator/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="E:/Kompilator/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="E:/Kompilator/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Kompilator/mingw64/bin/mingw32-make.exe -f &quot;E:/Studia/Arkanoidv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Arkanoidv2"/>
+					<CompileFile command="E:/Kompilator/mingw64/bin/mingw32-make.exe -f &quot;E:/Studia/Arkanoidv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Kompilator/mingw64/bin/mingw32-make.exe -f &quot;E:/Studia/Arkanoidv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Kompilator/mingw64/bin/mingw32-make.exe -f &quot;E:/Studia/Arkanoidv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Arkanoidv2/fast">
+				<Option output="E:/Studia/Arkanoidv2/cmake-build-debug/Arkanoidv2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Studia/Arkanoidv2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Program Files (x86)/SFML-2.5.0/include"/>
+					<Add directory="E:/Kompilator/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="E:/Kompilator/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Kompilator/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="E:/Kompilator/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="E:/Kompilator/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="E:/Kompilator/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Kompilator/mingw64/bin/mingw32-make.exe -f &quot;E:/Studia/Arkanoidv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Arkanoidv2/fast"/>
+					<CompileFile command="E:/Kompilator/mingw64/bin/mingw32-make.exe -f &quot;E:/Studia/Arkanoidv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Kompilator/mingw64/bin/mingw32-make.exe -f &quot;E:/Studia/Arkanoidv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Kompilator/mingw64/bin/mingw32-make.exe -f &quot;E:/Studia/Arkanoidv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/Studia/Arkanoidv2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Kompilator/mingw64/bin/mingw32-make.exe -f &quot;E:/Studia/Arkanoidv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="E:/Kompilator/mingw64/bin/mingw32-make.exe -f &quot;E:/Studia/Arkanoidv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Kompilator/mingw64/bin/mingw32-make.exe -f &quot;E:/Studia/Arkanoidv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Kompilator/mingw64/bin/mingw32-make.exe -f &quot;E:/Studia/Arkanoidv2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/Studia/Arkanoidv2/Ball.cpp">
+			<Option target="Arkanoidv2"/>
+		</Unit>
+		<Unit filename="E:/Studia/Arkanoidv2/Ball.h">
+			<Option target="Arkanoidv2"/>
+		</Unit>
+		<Unit filename="E:/Studia/Arkanoidv2/Bloczek.cpp">
+			<Option target="Arkanoidv2"/>
+		</Unit>
+		<Unit filename="E:/Studia/Arkanoidv2/Bloczek.h">
+			<Option target="Arkanoidv2"/>
+		</Unit>
+		<Unit filename="E:/Studia/Arkanoidv2/Game.cpp">
+			<Option target="Arkanoidv2"/>
+		</Unit>
+		<Unit filename="E:/Studia/Arkanoidv2/Game.h">
+			<Option target="Arkanoidv2"/>
+		</Unit>
+		<Unit filename="E:/Studia/Arkanoidv2/Odbijak.cpp">
+			<Option target="Arkanoidv2"/>
+		</Unit>
+		<Unit filename="E:/Studia/Arkanoidv2/Odbijak.h">
+			<Option target="Arkanoidv2"/>
+		</Unit>
+		<Unit filename="E:/Studia/Arkanoidv2/main.cpp">
+			<Option target="Arkanoidv2"/>
+		</Unit>
+		<Unit filename="E:/Studia/Arkanoidv2/menu.cpp">
+			<Option target="Arkanoidv2"/>
+		</Unit>
+		<Unit filename="E:/Studia/Arkanoidv2/menu.h">
+			<Option target="Arkanoidv2"/>
+		</Unit>
+		<Unit filename="E:/Studia/Arkanoidv2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="E:/Studia/Arkanoidv2/cmake_modules/FindSFML.cmake">
+			<Option virtualFolder="CMake Files\cmake_modules\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

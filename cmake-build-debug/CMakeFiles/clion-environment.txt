@@ -1,0 +1,4 @@
+ToolSet: w64 6.0@E:\Kompilator\mingw64
+Options: 
+
+Options:
