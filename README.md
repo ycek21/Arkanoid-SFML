@@ -10,3 +10,6 @@ To run it on your computer you need to extract sfml library in other foler on co
 Don't forget to change the location of SFML in CMakeLists. 
 
 Hope you enjoy
+
+![sfml](https://user-images.githubusercontent.com/39658861/55950449-3ef91e80-5c55-11e9-9e59-84c158c2758e.PNG)
+
