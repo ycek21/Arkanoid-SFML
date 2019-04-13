@@ -13,3 +13,7 @@ Hope you enjoy
 
 ![sfml](https://user-images.githubusercontent.com/39658861/55950449-3ef91e80-5c55-11e9-9e59-84c158c2758e.PNG)
 
+![a1](https://user-images.githubusercontent.com/39658861/56082699-2424d680-5e1c-11e9-8bb5-eac4f62af23c.PNG)
+
+![a2](https://user-images.githubusercontent.com/39658861/56082702-2edf6b80-5e1c-11e9-96d5-4bf77db59310.PNG)
+
