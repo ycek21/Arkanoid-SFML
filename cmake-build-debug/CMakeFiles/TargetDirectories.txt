@@ -1,3 +1,3 @@
-E:/Studia/Arkanoidv2/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Studia/Arkanoidv2/cmake-build-debug/CMakeFiles/Arkanoidv2.dir
-E:/Studia/Arkanoidv2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+X:/Projects/Arkanoid-SFML/cmake-build-debug/CMakeFiles/Arkanoidv2.dir
+X:/Projects/Arkanoid-SFML/cmake-build-debug/CMakeFiles/edit_cache.dir
+X:/Projects/Arkanoid-SFML/cmake-build-debug/CMakeFiles/rebuild_cache.dir

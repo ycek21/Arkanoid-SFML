@@ -1,5 +1,17 @@
-"E:\Programy\Clion\CLion 2017.2.3\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\Studia\Arkanoidv2
--- Found SFML 2.5.0 in E:/Program Files (x86)/SFML-2.5.0/include
+"X:\Programmes\CLion 2022.1.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=X:/Programmes/CLion 2022.1.1/bin/ninja/win/ninja.exe" -G Ninja -S X:\Projects\Arkanoid-SFML -B X:\Projects\Arkanoid-SFML\cmake-build-debug
+CMake Warning (dev) at CMakeLists.txt:10 (find_package):
+  Policy CMP0074 is not set: find_package uses <PackageName>_ROOT variables.
+  Run "cmake --help-policy CMP0074" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+
+  CMake variable SFML_ROOT is set to:
+
+    X:\Projects\Arkanoid-SFML\SFML
+
+  For compatibility, CMake is ignoring the variable.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Found SFML 2.5.0 in X:/Projects/Arkanoid-SFML/SFML/include
 -- Configuring done
 -- Generating done
--- Build files have been written to: E:/Studia/Arkanoidv2/cmake-build-debug
+-- Build files have been written to: X:/Projects/Arkanoid-SFML/cmake-build-debug

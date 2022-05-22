@@ -1,0 +1,8 @@
+# ninja log v5
+25	986	6749429392845488	CMakeFiles/Arkanoidv2.dir/Odbijak.cpp.obj	c75e138530f5c08
+21	1028	6749429393115505	CMakeFiles/Arkanoidv2.dir/Bloczek.cpp.obj	d945f21a316ec3ee
+18	1044	6749429393475523	CMakeFiles/Arkanoidv2.dir/Ball.cpp.obj	3de31de9ccb36c13
+0	1045	6749429393475523	CMakeFiles/Arkanoidv2.dir/main.cpp.obj	62b1ded6e319c4b
+15	1113	6749429394125458	CMakeFiles/Arkanoidv2.dir/menu.cpp.obj	65b289bc116815ac
+13	2236	6749429405387752	CMakeFiles/Arkanoidv2.dir/Game.cpp.obj	105eda10bbfa1e1
+2238	2410	6749429407109693	Arkanoidv2.exe	5b96b773786d4a4e
