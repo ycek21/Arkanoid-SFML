@@ -1,0 +1,32 @@
+[
+{
+  "directory": "X:/Projects/Arkanoid-SFML/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/Arkanoidv2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Arkanoidv2.dir\\main.cpp.obj -c X:\\Projects\\Arkanoid-SFML\\main.cpp",
+  "file": "X:/Projects/Arkanoid-SFML/main.cpp"
+},
+{
+  "directory": "X:/Projects/Arkanoid-SFML/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/Arkanoidv2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Arkanoidv2.dir\\menu.cpp.obj -c X:\\Projects\\Arkanoid-SFML\\menu.cpp",
+  "file": "X:/Projects/Arkanoid-SFML/menu.cpp"
+},
+{
+  "directory": "X:/Projects/Arkanoid-SFML/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/Arkanoidv2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Arkanoidv2.dir\\Game.cpp.obj -c X:\\Projects\\Arkanoid-SFML\\Game.cpp",
+  "file": "X:/Projects/Arkanoid-SFML/Game.cpp"
+},
+{
+  "directory": "X:/Projects/Arkanoid-SFML/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/Arkanoidv2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Arkanoidv2.dir\\Ball.cpp.obj -c X:\\Projects\\Arkanoid-SFML\\Ball.cpp",
+  "file": "X:/Projects/Arkanoid-SFML/Ball.cpp"
+},
+{
+  "directory": "X:/Projects/Arkanoid-SFML/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/Arkanoidv2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Arkanoidv2.dir\\Odbijak.cpp.obj -c X:\\Projects\\Arkanoid-SFML\\Odbijak.cpp",
+  "file": "X:/Projects/Arkanoid-SFML/Odbijak.cpp"
+},
+{
+  "directory": "X:/Projects/Arkanoid-SFML/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/Arkanoidv2.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Arkanoidv2.dir\\Bloczek.cpp.obj -c X:\\Projects\\Arkanoid-SFML\\Bloczek.cpp",
+  "file": "X:/Projects/Arkanoid-SFML/Bloczek.cpp"
+}
+]

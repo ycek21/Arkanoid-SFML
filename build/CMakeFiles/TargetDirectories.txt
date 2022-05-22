@@ -1,0 +1,3 @@
+X:/Projects/Arkanoid-SFML/build/CMakeFiles/Arkanoidv2.dir
+X:/Projects/Arkanoid-SFML/build/CMakeFiles/edit_cache.dir
+X:/Projects/Arkanoid-SFML/build/CMakeFiles/rebuild_cache.dir
