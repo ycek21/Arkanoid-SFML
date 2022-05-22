@@ -1,5 +1,0 @@
-"E:\Programy\Clion\CLion 2017.2.3\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\Studia\Arkanoidv2
--- Found SFML 2.5.0 in E:/Program Files (x86)/SFML-2.5.0/include
--- Configuring done
--- Generating done
--- Build files have been written to: E:/Studia/Arkanoidv2/cmake-build-debug
